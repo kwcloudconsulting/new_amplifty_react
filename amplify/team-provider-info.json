@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-houstongardening-dev-123354-authRole",
+      "UnauthRoleArn": "arn:aws:iam::596723386663:role/amplify-houstongardening-dev-123354-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::596723386663:role/amplify-houstongardening-dev-123354-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-houstongardening-dev-123354-deployment",
+      "UnauthRoleName": "amplify-houstongardening-dev-123354-unauthRole",
+      "StackName": "amplify-houstongardening-dev-123354",
+      "StackId": "arn:aws:cloudformation:us-east-1:596723386663:stack/amplify-houstongardening-dev-123354/0191a570-f022-11ed-aec9-126e3b15c8ff",
+      "AmplifyAppId": "d15r9glbm24s3j"
+    },
+    "categories": {
+      "api": {
+        "houstongardening": {}
+      },
+      "auth": {
+        "houstongardening6e280cc9": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d15r9glbm24s3j",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
